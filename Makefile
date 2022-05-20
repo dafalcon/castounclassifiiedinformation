@@ -3,7 +3,7 @@ CURRENT_COMMIT=$(shell git rev-list --max-count=1 HEAD)
 all: site
 
 site:
-	hugo --theme=hugo-profile
+	hugo -d docs --theme=hugo-profile
 
 server: site
 	hugo server --theme=hugo-profile --buildDrafts
