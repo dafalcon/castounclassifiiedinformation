@@ -193,7 +193,7 @@ params:
 
       - title: Charles Cavanaugh
         content: Although Bryan and I didn’t work closely together this past year and a half, I did have the pleasure of his interviewing me for this position. He definitely struck me as a person who “knows their stuff,” and we seemed to have a good rapport. I would’ve liked to get to know him better, and it’s sad to see someone of high competence leave our team; but I wish him well in his future endeavors!
-        image: /images/blank.webp
+        image: /images/ccavanau.jpg
 
       - title: Damien “Fido2 guy” Le
         content: When I was interviewed for Akamai, Bryan asked “explains how the internet works” or something like that. It was a thought-provoking question! As a developer I use the internet and never thought too much about the design or the architect how it is supposed to work. Now been here for some time, I realize that Bryan knows a lot about the internet and everything Akamai related! Best of luck in your new position, Bryan!
@@ -220,19 +220,19 @@ params:
           - icon: fab fa-github
             url: /images/burythehatchet.mov
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+      #- title: Hugo Profile V2
+        #content: A clean and simple Hugo template for personal portfolio and blog.
+        #image: /images/projects/profile2.jpg
+        #featured:
+          #name: Demo V2
+          #link: https://hugo-profile-2.netlify.app
         # badges:
         #   - "Hugo"
         #   - "Bootstrap"
         #   - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+        #links:
+          #- icon: fab fa-github
+            #url: https://github.com/gurusabarish/HugoProfileV2
 
       - title: Dan 'when do you need it by' Falcone
         content: It's a good thing Bryan's leaving - his cube was about to consume mine.  Dibs on the fallout nuke!  
