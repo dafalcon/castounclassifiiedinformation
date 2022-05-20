@@ -3,7 +3,6 @@ CURRENT_COMMIT=$(shell git rev-list --max-count=1 HEAD)
 all: site
 
 site:
-	git submodule update
 	hugo --theme=hugo-profile
 
 server: site
