@@ -286,6 +286,6 @@ params:
     socialNetworks:
       github: https://github.com/dafalcon/castounclassifiiedinformation
       linkedin: https://www.linkedin.com/in/rick-astley-605352208/
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      #twitter: https://twitter.com
+      #instagram: https://instagram.com
+      #facebook: https://facebook.com
