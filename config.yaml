@@ -213,12 +213,29 @@ params:
           - icon: fab fa-github
             url: /images/kill-me.jpg
 
+      - title: Dan 'when do you need it by' Falcone
+        content: It's a good thing Bryan's leaving - his cube was about to consume mine.  Dibs on the fallout nuke!  
+        image: /images/dafalcon.jpg
+
       - title: Simon
-        content: i wanna bury the hatchet
+        content: fine you get the nuke, i call dibs on the cube.  i wanna bury the hatchet anyway
         image: /images/sverasch.jpeg
         links:
           - icon: fab fa-github
             url: /images/burythehatchet.mov
+
+      - title: Jon Oxley
+        content: |
+          The first I knew of Bryan was the head engineer guy, the guy who knew everything.  Eventually I learned the title architect, but he was one of the engineering wizards who you rarely saw.  I was ops so I never really talked to him unless something was severely and horribly broken.  One vivid memory I have is during my first installment at Akamai.  Was working in the NOCC and was a bit shocked to see him walk in first thing early in the morning.  He had a box of donuts in his hand.
+
+          His words were of the sort, “Sorry guys, I brought donuts because the internet is about to have a very bad day….”.  It was one of the first big SSL vulnerabilities, I think.
+ 
+          But slowly as I grew in my Akamai experiences, it took a while, but I learned to not be terrified of him walking into the NOCC.  However, certain people you just know, don’t have time to waste.  If there is a list of those people Bryan would be at the top of it.  So, when you see them around, the pulse quickens with thoughts of “what’s about to happen here”?
+ 
+          In my second turn here, my assumption about him being an all-knowing wizard was confirmed as time and time again as he guided me through various security debacles and helped get us through various compliance issues.
+ 
+          Akamai has among all the other things, given me the best string of supervisors I could have ever imagined.  Bryan Casto would be at the top of that list.  I’m not the best with words so I will just say I’ve been blessed to work under him and Bryan I wish you the very best.
+        image: /images/joxley.jpeg
 
       #- title: Hugo Profile V2
         #content: A clean and simple Hugo template for personal portfolio and blog.
@@ -233,10 +250,6 @@ params:
         #links:
           #- icon: fab fa-github
             #url: https://github.com/gurusabarish/HugoProfileV2
-
-      - title: Dan 'when do you need it by' Falcone
-        content: It's a good thing Bryan's leaving - his cube was about to consume mine.  Dibs on the fallout nuke!  
-        image: /images/dafalcon.jpg
 
   #Contact
   contact:
