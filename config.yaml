@@ -91,13 +91,12 @@ params:
       title: "Here are some declassified facts about Casto:"
       items:
         - "Definitely thinks puns are the highest form of humor.  Try him!"
-        - "Slightly better at staying with GCDS than Underhill, Bonci, Bailey..."
+        - "Slightly better at staying with GCDS than Underhill, Bonci, and Bailey"
         - "Self declared 'Lord Mayor of Squirrellytown'"
         - "p4 commit hilarity strongly correlated with stress level"
         - "Likes pizzas with more than 3 toppings, dammit"
         - "Not as good at GCDSing as dyoon, let's be honest (I mean really, who can compete with that)"
         - "Hasn't won the lottery"
-        - "...yet"
 
   # Experience
   experience:
