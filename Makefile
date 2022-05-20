@@ -11,14 +11,8 @@ server: site
 publish: all
 	git status | grep 'nothing to commit'
 	git push origin -u main
-	git checkout gh-pages
-	rm -rf css img js work
-	mv public/* .
-	rm -r public
-	rm -rf themes
-	git add *
-	git status
-	git ci -a -m ${CURRENT_COMMIT}
+	git branch -D gh-pages
+	git checkout -b gh-pages
 	git push origin -u gh-pages
 	git checkout main
 
