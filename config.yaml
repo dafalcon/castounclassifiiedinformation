@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: http://castounclassifiedinformation.com/
 languageCode: en-us
 title: Sev 1 Casto
 theme: hugo-profile
@@ -14,7 +14,7 @@ params:
   title: "CUI"
   description: Sev 1 Casto Griefing
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/images/86895-league-national-capitals-washington-detroit-wing-hockey_64x64.ico"
+  favicon: "/images/eating.jpeg"
 
   theme:
     disableThemeToggle: false
