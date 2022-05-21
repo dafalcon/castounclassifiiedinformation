@@ -1,6 +1,6 @@
 all:
 
-server: site
+server:
 	hugo server --theme=hugo-profile --buildDrafts
 
 publish:

@@ -227,6 +227,21 @@ params:
           name: thisisunsafe
           link: /images/burythehatchet.mov
 
+      - title: KKC
+        content: In the amount of time it took to come up with this message, Bryan has found critical issues with 2 major systems, frowned 15 times, attempted a funny quip that we groaned at, and 3d printed another 3d printer.
+        image: /images/kkc.jpg
+
+      - title: Art
+        content: |-
+          The first time I met Bryan was the first time I interview with Akamai.
+          He did a great job of giving me the background for the scale of Akamai's network before asking questions like "how to monitor the health of the network and spot trends towards future network problems".
+          So great, that when I interviewed the second time, many of my answers started with: "Well Bryan described that area as X and then we talked about Y."  I sometimes think the reason I got hired was because I was able to remember his descriptions (don't ask me now, they is long buried under updates).
+          My first day at Akamai Reston office, Bryan gave me a tour of the corp rack space and explained how Edge was also used within Akamai to support engineering.
+          And it has been downhill (?uphill?) ever since.
+          Thanks Bryan for all the sanity brought to the craziness of GCDS.
+        image: /images/arcolema.jpeg
+
+
       - title: Jon Oxley
         content: |
           The first I knew of Bryan was the head engineer guy, the guy who knew everything.  Eventually I learned the title architect, but he was one of the engineering wizards who you rarely saw.  I was ops so I never really talked to him unless something was severely and horribly broken.  One vivid memory I have is during my first installment at Akamai.  Was working in the NOCC and was a bit shocked to see him walk in first thing early in the morning.  He had a box of donuts in his hand.
